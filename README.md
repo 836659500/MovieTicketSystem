@@ -1,2 +1,2 @@
 # MovieTicketSystem
-A small project I worked on. It simulates the process of business registration, film listing and users buying movie tickets, scoring and other operations
+A practice to check what I learned of Java. It simulates the process of business registration, film listing and users buying movie tickets, scoring and other operations
